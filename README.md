@@ -1,2 +1,2 @@
 # RL_stock_portfolio
-Portfolio allocation using Proximal Policy Optimization
+Optimizing a portfolio comprising of 'SPY', '^NSEI', 'NQ=F' based on historial returns, using Proximal Policy Optimization
